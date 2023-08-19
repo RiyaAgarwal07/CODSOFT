@@ -80,9 +80,9 @@ myimage_icon = Button(image=Search_icon, borderwidth=0, cursor="hand2", bg="#404
 myimage_icon.place(x=400,y=34)
 
 #logo
-Logo_image=PhotoImage(file="Python_Task1_WeatherForecasting\logo.png")
-logo=Label(image=Logo_image)
-logo.place(x=150,y=122)
+#Logo_image=PhotoImage(file="Python_Task1_WeatherForecasting\logo.png")
+#logo=Label(image=Logo_image)
+#Logo.place(x=150,y=122)
 
 #Bottom Box
 Frame_image = PhotoImage(file="Python_Task1_WeatherForecasting/Box.png")
